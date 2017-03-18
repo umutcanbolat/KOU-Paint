@@ -1,6 +1,8 @@
 # KOU Paint
 
-KOU Paint is a lightweight image editor that helps users edit&save image files quickly and supports JPEG, PNG, BMP, PCX and TGA formats. Developed in C using allegro5 library.
+KOU Paint is a lightweight image editor that helps users edit&save image files quickly and supports JPEG, PNG, BMP, PCX and TGA formats. 
+
+Developed in C using allegro5 library.
 
 
 ## Installation
