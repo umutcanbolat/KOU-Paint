@@ -279,13 +279,16 @@ int main() {
             } else if(event.keyboard.keycode == ALLEGRO_KEY_Q) {
                 al_get_keyboard_state(&keyboard_state);
                 if(al_key_down(&keyboard_state, ALLEGRO_KEY_LCTRL)) {
+                    printf("exited\n");
                     al_destroy_display(display);
+                    al_destroy_event_queue(queue);
                     return 0;
                 }
             }
             break;
 
         case ALLEGRO_EVENT_DISPLAY_CLOSE:
+            printf("exited\n");
             al_destroy_display(display);
             al_destroy_event_queue(queue);
             return 0;
