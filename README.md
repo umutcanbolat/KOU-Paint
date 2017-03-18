@@ -24,12 +24,12 @@ make && make run
 
 
 ## Screenshots
-- Blank Screen <br> <img src="http://i.hizliresim.com/GB5dpN.png" width="500" height="300"> <br>
-- Drawing Mod <br> <img src="http://i.hizliresim.com/yERBA9.png" width="500" height="300">  <br>
-- Triangle Mod <br> <img src="http://i.hizliresim.com/698olE.png" width="500" height="300"> <br>
-- Line Mod <br> <img src="http://i.hizliresim.com/W0EN6P.png" width="500" height="300"> <br>
-- Rectangle Mod <br> <img src="http://i.hizliresim.com/37Pm15.png" width="500" height="300">  <br>
-- Circle Mod <br> <img src="http://i.hizliresim.com/p09dmJ.png" width="500" height="300"> <br>
+- Blank Screen <br> <img src="http://i.hizliresim.com/GB5dpN.png" width="500" height="350"> <br>
+- Drawing Mod <br> <img src="http://i.hizliresim.com/yERBA9.png" width="500" height="350">  <br>
+- Triangle Mod <br> <img src="http://i.hizliresim.com/698olE.png" width="500" height="350"> <br>
+- Line Mod <br> <img src="http://i.hizliresim.com/W0EN6P.png" width="500" height="350"> <br>
+- Rectangle Mod <br> <img src="http://i.hizliresim.com/37Pm15.png" width="500" height="350">  <br>
+- Circle Mod <br> <img src="http://i.hizliresim.com/p09dmJ.png" width="500" height="350"> <br>
 
 ## Credits
-Design and programming by [Umut Canbolat](https://github.com/krupunkt) and [Ali Şentaş](https://github.com/alisentas)
+Design and programming by [Umut Canbolat](https://github.com/krupunkt) and [Ali Şentaş](https://github.com/alisentas).
