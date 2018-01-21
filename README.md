@@ -41,4 +41,4 @@ make && make run
 - Circle Mod <br> <img src="http://i.hizliresim.com/p09dmJ.png" width="500" height="350"> <br>
 
 ## Credits
-Design and programming by [Umut Canbolat](https://github.com/krupunkt) and [Ali Şentaş](https://github.com/alisentas).
+Design and programming by [Umut Canbolat](https://github.com/umutcanbolat) and [Ali Şentaş](https://github.com/alisentas).
