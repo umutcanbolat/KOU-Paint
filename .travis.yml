@@ -1,0 +1,11 @@
+language: c
+compiler:
+- gcc
+os:
+- linux
+before_script:
+- sudo add-apt-repository ppa:allegro/5.2 -y
+- sudo apt-get update
+- sudo apt-get install liballegro5-dev -y
+script:
+- make
