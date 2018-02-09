@@ -1,4 +1,4 @@
-# KOU Paint
+# KOU Paint [![Build Status](https://travis-ci.org/umutcanbolat/KOU-Paint.svg?branch=master)](https://travis-ci.org/umutcanbolat/KOU-Paint)
 
 KOU Paint is a lightweight image editor that helps users edit&save image files quickly and supports JPEG, PNG, BMP, PCX and TGA formats. 
 
