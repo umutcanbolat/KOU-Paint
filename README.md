@@ -7,7 +7,7 @@ Developed in C using allegro5 library.
 
 ## Installation
 
-Install `allegro5`, `pkg-config`, `make` and `gcc` to your system then run these commands in the application directory.
+Install `pkg-config`, `make` and `gcc` to your system then run these commands in the application directory.
 
 ### For Ubuntu
 ```sh
