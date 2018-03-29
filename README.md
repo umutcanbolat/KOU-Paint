@@ -33,12 +33,12 @@ make && make run
 
 
 ## Screenshots
-- Blank Screen <br> <img src="http://i.hizliresim.com/GB5dpN.png" width="500" height="350"> <br>
-- Drawing Mod <br> <img src="http://i.hizliresim.com/yERBA9.png" width="500" height="350">  <br>
-- Triangle Mod <br> <img src="http://i.hizliresim.com/698olE.png" width="500" height="350"> <br>
-- Line Mod <br> <img src="http://i.hizliresim.com/W0EN6P.png" width="500" height="350"> <br>
-- Rectangle Mod <br> <img src="http://i.hizliresim.com/37Pm15.png" width="500" height="350">  <br>
-- Circle Mod <br> <img src="http://i.hizliresim.com/p09dmJ.png" width="500" height="350"> <br>
+- Blank Screen <br> <img src="https://user-images.githubusercontent.com/10065235/38103267-9c2d0490-338e-11e8-9895-c0583a77ab46.png" width="500" height="350"> <br>
+- Drawing Mod <br> <img src="https://user-images.githubusercontent.com/10065235/38103451-04978b4a-338f-11e8-9db7-0bd97a3842b7.png" width="500" height="350">  <br>
+- Triangle Mod <br> <img src="https://user-images.githubusercontent.com/10065235/38103463-0c07dff6-338f-11e8-9db7-ffa549bf8814.png" width="500" height="350"> <br>
+- Line Mod <br> <img src="https://user-images.githubusercontent.com/10065235/38103472-11dbfaf2-338f-11e8-98af-c9f941b8ca21.png" width="500" height="350"> <br>
+- Rectangle Mod <br> <img src="https://user-images.githubusercontent.com/10065235/38103485-1a5ecc40-338f-11e8-9b23-64ae095e1367.png" width="500" height="350">  <br>
+- Circle Mod <br> <img src="https://user-images.githubusercontent.com/10065235/38103499-226b3630-338f-11e8-8b8d-7ab8831058a1.png" width="500" height="350"> <br>
 
 ## Credits
 Design and programming by [Umut Canbolat](https://github.com/umutcanbolat) and [Ali Şentaş](https://github.com/alisentas).
